@@ -5,7 +5,7 @@ Aplikasi ini adalah aplikasi APIsekolah hanya saja ditambahkan crud untuk kelas.
 
 # Cara Install
 
-* git clone https://github.com/bestmomo/lumenvue.git projectname
+* git clone https://github.com/dewangga7111/TugasAkhirAxios projectname
 * cd projectname
 * composer install
 * Create a database and inform .env (remove .example)
